@@ -45,24 +45,21 @@
 <!-- About Section -->
  # About me
  
-<div style="display: flex; align-items: flex-start;">
-    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<p>
+ <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Contribution Calander" />
 
-    <p>
-        - 🔭 &emsp; I’m currently working on <a href="https://github.com/trulyaman25/keyVault">keyVault</a><br>
-        - 👯 &emsp; Official Collaborator of <a href="https://github.com/trulyaman25/MotoSports-24">MotoSports-24</a><br>
-        - 🌱 &emsp; I’m currently learning <strong>React, Node.js</strong><br>
-        - 💬 &emsp; Ask me about <strong>CP/DSA/HTML/CSS/REACT</strong><br>
-        - 📫 &emsp; How to reach me <strong>trulyaman25@gmail.com</strong><br>
-        - ⚡&emsp; Fun fact <strong>I have curly hairs😂</strong>
-    </p>
-</div>
+  - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
 
-<div align="right">
-    <img src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Github Contribution Calendar">
-</div>
+  - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
 
+  - 🌱 &emsp; I’m currently learning **React, Node.js**
 
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
+
+  - 📫 &emsp; How to reach me **trulyaman25@gmail.com**
+
+  - ⚡&emsp; Fun fact **I have curly hairs😂**
+</p>
 
 <br/>
 <br/>
