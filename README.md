@@ -50,7 +50,7 @@
 
   - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
 
-  - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
+  - 👯 &emsp; Official Contributor of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
 
   - 🌱 &emsp; I’m currently learning **React, Node.js**
 
