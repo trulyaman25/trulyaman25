@@ -45,30 +45,33 @@
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<div style="display: flex;">
+    <p>
+        <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-  - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
+        - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
 
-  - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
+        - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
 
-  - 🌱 &emsp; I’m currently learning **React, Node.js**
+        - 🌱 &emsp; I’m currently learning **React, Node.js**
 
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
+        - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
 
-  - 📫 &emsp; How to reach me **trulyaman25@gmail.com**
+        - 📫 &emsp; How to reach me **trulyaman25@gmail.com**
 
-  - ⚡&emsp; Fun fact **I have curly hairs😂**
-</p>
+        - ⚡&emsp; Fun fact **I have curly hairs😂**
+    </p>
 
-<p align="right">
-	<img src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Github Contribution Calander">
-</p>
+    <p>
+        <img src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Github Contribution Calander">
+    </p>
+</div>
+
 
 <br/>
 <br/>
 
-## Use To Code
+## Have Knowledge About
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
