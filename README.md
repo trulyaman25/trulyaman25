@@ -59,10 +59,12 @@
   - 📫 &emsp; How to reach me **trulyaman25@gmail.com**
 
   - ⚡&emsp; Fun fact **I have curly hairs😂**
-
 </p>
 
-<br/>
+<p align="right">
+	<img src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Github Contribution Calander">
+</p>
+
 <br/>
 <br/>
 
@@ -107,9 +109,7 @@
   </a>
 </p>
 
-<p align="center">
-	<img src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Github Contribution Calander">
-</p>
+
 
 <a> 
     <a href="https://github.com/trulyaman25"><img alt="Aman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=trulyaman25&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
