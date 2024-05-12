@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a web application developer from <b>Delhi, India</b> 」
+    「 I am a full stack web application developer from <b>Delhi, India</b> 」
     <br>
     <br>
   </samp>
@@ -50,7 +50,7 @@
 
   - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
 
-  - 👯 &emsp; Official Contributor of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
+  - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
 
   - 🌱 &emsp; I’m currently learning **React, Node.js**
 
@@ -82,8 +82,8 @@
 ## Top Open Source -
 [![keyVault](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=keyVault&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/keyVault)
 [![MotoSports-24](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=MotoSports-24&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/MotoSports-24)
-[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=Netflix-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/Netflix-Clone)
-[![signUp-Page](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=signUp-Page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/signUp-Page)
+<!-- [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=Netflix-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/Netflix-Clone)
+[![signUp-Page](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=signUp-Page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/signUp-Page) -->
 
 <p align="left">
   <a href="https://github.com/trulyaman25?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
