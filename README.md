@@ -27,6 +27,11 @@
  <a href="https://linkedin.com/in/amankumar25" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="trulyaman25"/>
  </a>
+  
+<a href="mailto:trulyaman25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="trulyaman25"/>
+</a>
+  
  <!-- <a href="https://dev.to/trulyaman25" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="trulyaman25" />
  </a> -->
@@ -35,7 +40,7 @@
  </a>
  <a href="https://instagram.com/amanwhoooo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="trulyaman25" />
- </a> 
+ </a>
  <!-- <a href="https://facebook.com/trulyaman25.dev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="trulyaman25"  />
 </a>  -->
