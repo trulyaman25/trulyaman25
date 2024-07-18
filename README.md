@@ -52,7 +52,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Contribution Calander" />
+ <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=15&theme=yellow_wine&dark=true" alt="Aman's Contribution Calander" />
 
   - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
 
