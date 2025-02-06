@@ -54,13 +54,15 @@
 <p>
  <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/trulyaman25?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=fadeIn&animation_duration=3&format=svg&weeks=15&theme=yellow_wine&widget_size=medium&dark=true" alt="Aman's Contribution Calander" />
 
-  - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/trulyaman25/keyVault)
+  - 🔭 &emsp; I’m currently working on [WellWise](https://github.com/trulyaman25/WellWise_Core)
 
+  - 👯 &emsp; Official Collaborator of [Samar-25](https://github.com/trulyaman25/Samar-2k25)
+  - 
   - 👯 &emsp; Official Collaborator of [MotoSports-24](https://github.com/trulyaman25/MotoSports-24)
 
-  - 🌱 &emsp; I’m currently learning **React, Node.js**
+  - 🌱 &emsp; I’m currently learning **Solidity, Web3**
 
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT/BLOCKCHAIN**
 
   - 📫 &emsp; How to reach me **trulyaman25@gmail.com**
 
@@ -87,7 +89,7 @@
 
 ## Top Open Source -
 [![Check Mate](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=CheckMate-Interface&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/trulyaman25/keyVault](https://github.com/trulyaman25/CheckMate-Interface))
-[![keyVault](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=keyVault&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/keyVault)
+[![Samar 2k25](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=Samar-2k25&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/Samar-2k25)
 <!-- [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=Netflix-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/Netflix-Clone)
 [![signUp-Page](https://github-readme-stats.vercel.app/api/pin/?username=trulyaman25&repo=signUp-Page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/trulyaman25/signUp-Page) -->
 
